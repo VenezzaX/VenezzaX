@@ -1,8 +1,8 @@
 # Hello, I'm **<span style="color: yellow;">HeavenlyReminiscence</span>** 👋
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeavenlyReminiscence&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeavenlyReminiscence&layout=compact&langs_count=5&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VenezzaX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenezzaXe&layout=compact&langs_count=5&theme=tokyonight" />
 </div>
 
 ### Tech Stack
@@ -19,5 +19,5 @@
 
 ### 📈 GRaPHS :)
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HeavenlyReminiscence&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VenezzaX&theme=tokyonight" width="100%" />
 </div>
